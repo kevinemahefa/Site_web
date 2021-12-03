@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    padding: 20px;
+    width: 90%;
+    background-color: aqua;
+    border-radius: 30px;
+}
+
+p {
+    background-color: chartreuse;
+    text-align: center;
+    padding: 30px;
+    width: 90%;
+    height: 200px;
+    border-radius: 20px;
+}
